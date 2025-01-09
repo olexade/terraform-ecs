@@ -1,4 +1,4 @@
-# ECS Cluster w/ Multy target groups on ALB
+# ECS Cluster w/ Multy target groups on ALB. Optimized for free tier - need to pay for public IPs only
 
 Configuration in this directory creates:
 
